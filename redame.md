@@ -17,4 +17,6 @@ tramite il "prompt" faccio richiesta all'utente di:
 - inserire il suo **COGNOME**;
 - il suo **COLORE PREFERITO**; 
 
-Dopo aver raccolto queste 3 informazioni trasmetto a schermo il risultato dato dalla loro concatenzaione.
+Dopo aver raccolto queste 3 informazioni trasmetto a schermo il risultato dato dalla raccolta dei 3 dati (**NOME**+**COGNOME**+**COLORE PREFERITO**+ numero casuale):
+
+- Mostro la **PASSWORD**
